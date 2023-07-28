@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @King-Manoj
 - 👀 I’m interested in Full stack development
 - 🌱 I’m currently learning frontend 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on freelancers
 - 📫 How to reach me ... kingmano2002@gmail.com
 
 <!---
