@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @King-Manoj
-- 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning frontend 
+- 👀 I’m interested in Full stack development and Competitive Programming
+- 🌱 I’m currently a Freelance Java Full Stack Developer
 - 💞️ I’m looking to collaborate on freelancers
-- 📫 How to reach me ... kingmano2002@gmail.com
-
-<!---
-King-Manoj/King-Manoj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me ... kingmano2002@gmail.com 
